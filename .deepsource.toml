@@ -6,3 +6,12 @@ name = "csharp"
 [[analyzers]]
 name = "javascript"
 
+[[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "powershell"
+
+[[analyzers]]
+name = "secrets"
+
